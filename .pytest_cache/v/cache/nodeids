@@ -1,0 +1,5 @@
+[
+  "kmean_scikit.py::test_Kmeans",
+  "kmean_scikit.py::test_Kmeans_nclusters",
+  "kmean_scikit.py::test_Kmeans_n_init"
+]
